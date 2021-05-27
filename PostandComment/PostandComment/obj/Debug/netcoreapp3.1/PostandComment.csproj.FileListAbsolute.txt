@@ -1,0 +1,13 @@
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\bin\Debug\netcoreapp3.1\PostandComment.exe
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\bin\Debug\netcoreapp3.1\PostandComment.deps.json
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\bin\Debug\netcoreapp3.1\PostandComment.runtimeconfig.json
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\bin\Debug\netcoreapp3.1\PostandComment.runtimeconfig.dev.json
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\bin\Debug\netcoreapp3.1\PostandComment.dll
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\bin\Debug\netcoreapp3.1\PostandComment.pdb
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\obj\Debug\netcoreapp3.1\PostandComment.csprojAssemblyReference.cache
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\obj\Debug\netcoreapp3.1\PostandComment.AssemblyInfoInputs.cache
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\obj\Debug\netcoreapp3.1\PostandComment.AssemblyInfo.cs
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\obj\Debug\netcoreapp3.1\PostandComment.csproj.CoreCompileInputs.cache
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\obj\Debug\netcoreapp3.1\PostandComment.dll
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\obj\Debug\netcoreapp3.1\PostandComment.pdb
+H:\SCDT41 Programming and Software Fundamentals (James Shaun)\PostandComment\PostandComment\obj\Debug\netcoreapp3.1\PostandComment.genruntimeconfig.cache
